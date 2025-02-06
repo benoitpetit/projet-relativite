@@ -1,4 +1,4 @@
-# Projet Relativité - Modélisation de l'Énergie Relativiste par Réseaux de Neurones
+{bêta} # Projet Relativité - Modélisation de l'Énergie Relativiste par Réseaux de Neurones
 
 ## 📖 Introduction
 
@@ -206,4 +206,6 @@ MIT License - Voir le fichier [LICENSE](LICENSE) pour détails
 
 ---
 
-*Ce projet a été développé avec rigueur scientifique et les meilleures pratiques en ingénierie logicielle. Pour toute question technique, veuillez consulter les docstrings détaillées dans le code source.*
+*Ce projet a été développé avec rigueur scientifique et les meilleures pratiques en ingénierie logicielle. Pour toute question technique, veuillez consulter les docstrings détaillées dans le code source.* 
+
+> Ce projet est actuellement en cours de construction 🚧
